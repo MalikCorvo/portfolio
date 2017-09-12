@@ -1,3 +1,26 @@
-.container {
+/* Base blue #00999E. Base eggplant #643056 Base dark grey #929292 Base light grey #E8E6E7 */
+
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+/*About Begins */
+.about-body {
   background-color: #E8E6E7;
 }
+
+.about-h1 {
+   font-family: 'Press Start 2P', sans-serif;
+   margin: 50px 170px;
+   color:#643056; /* eggplant */
+}
+
+.about-text {
+  color: #643056; /* eggplant */
+  margin: 0px 50px;
+}
+
+.photo {
+  margin: 100px 100px;
+  height: 200px;
+}
+/* Media begins */
+@media (min-width: 1200px)

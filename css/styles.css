@@ -1,12 +1,12 @@
 /* Base blue #00999E. Base eggplant #643056 Base dark grey #929292 Base light grey #E8E6E7 */
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 
 /* Header */
 #catchphrase {
   font-family: 'Josefin Sans', sans-serif;
   margin: 0px 370px;
-  background-color: #643056; /*eggplant*/
-  color: #E8E6E7;
+  color: #E8E6E7; /*light grey */
   border-radius: 15%;
   padding: 5px;
 }
@@ -25,9 +25,14 @@
 
 .banner-words {
   color: #E8E6E7; /* light grey */
+  font-family: 'Press Start 2P', sans-serif;
+  background-color: rgba(100, 48, 86, 0.5);
+  width: 380px;
+  padding: 10px;
+  margin: 0px 850px;
 }
-/* Nav Bar */
 
+/* Nav Bar */
 .navbar-default {
     position: fixed;
     left: 0;
@@ -65,7 +70,10 @@ color: #929292;
   color: #643056; /* eggplant */
   font-weight: bold;
 }
-
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #E8E6E7;
+}
+/*body color */
 body {
   background-color: #00999E; /*blue */
 }
