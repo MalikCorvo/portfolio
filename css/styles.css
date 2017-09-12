@@ -13,7 +13,7 @@
 
 /*Banner*/
 .banner {
-  height: 1000px;
+  height: 550px;
   width: 100%;
   max-height: 50%;
   max-width: 100%;
@@ -26,7 +26,7 @@
 .banner-words {
   color: #E8E6E7; /* light grey */
   font-family: 'Press Start 2P', sans-serif;
-  background-color: rgba(100, 48, 86, 0.5);
+  background-color: rgba(100, 48, 86, 0.5); /*transparent eggplant */
   width: 380px;
   padding: 10px;
   margin: 0px 850px;
@@ -90,5 +90,8 @@ body {
 @media screen and (min-width: 768px) {
   .jumbotron .h1, .jumbotron h1 {
     color: #E8E6E7;
+    background-color: rgba(100, 48, 86, 0.5); /*transparent eggplant */
+    width: 328px;
+    padding: 10px;
   }
 }
