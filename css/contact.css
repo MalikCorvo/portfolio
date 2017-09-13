@@ -1,0 +1,23 @@
+/* Base blue #00999E. Base eggplant #643056 Base dark grey #929292 Base light grey #E8E6E7 */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+.contact-body {
+  background-color: #E8E6E7; /* light grey*/
+}
+.contact-name {
+  font-weight: bold;
+}
+.contact-me {
+  text-align: center;
+  color: #643056; /*eggplant */
+  margin: 25% 0 0 0;
+}
+.fa-mobile {
+color:  #643056;
+margin: 0 48%;
+}
+
+iframe {
+  padding: 10% 20%;
+}

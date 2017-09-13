@@ -9,6 +9,7 @@
 }
 .skills-body {
   background-color: #E8E6E7; /*light grey */
+  margin: 100px;
 }
 
 .fa-html5 {
@@ -17,23 +18,36 @@ color: #643056; /*eggplant*/
 background-color: #929292; /*dark grey */
 border-radius: 50%;
 padding: 8px 15px;
-border: 5px double #643056;
+border: 5px double #643056; /*eggplant */
+margin: 10% 35%;
 }
 
 .fa-css3 {
-  text-align: center;
+text-align: center;
 color: #643056; /*eggplant*/
 background-color: #929292; /*dark grey */
 border-radius: 50%;
 padding: 8px;
-border: 5px double #643056;
+border: 5px double #643056; /*eggplant*/
+margin: 10% 35%;
 }
 
 .fa-language {
-  text-align: center;
+text-align: center;
 color: #643056; /*eggplant*/
 background-color: #929292; /*dark grey */
 border-radius: 50%;
 padding: 8px 15px;
-border: 5px double #643056;
+border: 5px double #643056; /*eggplant */
+margin: 10% 35%;
+}
+
+.skills-text {
+  text-align: center;
+  color: #643056; /*eggplant */
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.col-text {
+  padding: 1%;
 }
