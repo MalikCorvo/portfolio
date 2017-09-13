@@ -89,6 +89,7 @@ body {
 
 @media screen and (min-width: 768px) {
   .jumbotron .h1, .jumbotron h1 {
+    font-family: 'Josefin Sans', sans-serif;
     color: #E8E6E7;
     background-color: rgba(100, 48, 86, 0.5); /*transparent eggplant */
     width: 328px;

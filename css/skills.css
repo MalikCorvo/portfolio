@@ -1,5 +1,39 @@
+/* Base blue #00999E. Base eggplant #643056 Base dark grey #929292 Base light grey #E8E6E7 */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 
+.skills-h1 {
+  text-align: center;
+  font-family: 'Press Start 2P', sans-serif;
+  color: #643056; /*eggplant*/
+}
+.skills-body {
+  background-color: #E8E6E7; /*light grey */
+}
 
-.fa {
-color: blue;  
+.fa-html5 {
+  text-align: center;
+color: #643056; /*eggplant*/
+background-color: #929292; /*dark grey */
+border-radius: 50%;
+padding: 8px 15px;
+border: 5px double #643056;
+}
+
+.fa-css3 {
+  text-align: center;
+color: #643056; /*eggplant*/
+background-color: #929292; /*dark grey */
+border-radius: 50%;
+padding: 8px;
+border: 5px double #643056;
+}
+
+.fa-language {
+  text-align: center;
+color: #643056; /*eggplant*/
+background-color: #929292; /*dark grey */
+border-radius: 50%;
+padding: 8px 15px;
+border: 5px double #643056;
 }
