@@ -18,6 +18,19 @@ color:  #643056;
 margin: 0 48%;
 }
 
+.phone-number {
+  text-align: center;
+  color: #643056; /*eggplant */
+}
+
+.email {
+  color: #643056;
+  margin: 5% 0 0 0;
+}
+
+
+/*map*/
+
 iframe {
   padding: 10% 20%;
 }

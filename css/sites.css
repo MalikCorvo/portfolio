@@ -1,0 +1,22 @@
+/* Base blue #00999E. Base eggplant #643056 Base dark grey #929292 Base light grey #E8E6E7 */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+.sites-body {
+  background-color: #E8E6E7;
+  margin: 100px;
+}
+
+.sites-pix {
+    padding: 10% 20% 0 20%;
+    background-color: #E8E6E7;
+}
+
+.thumbnail {
+  background-color: #E8E6E7;
+}
+
+.text-center {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #643056;
+}
